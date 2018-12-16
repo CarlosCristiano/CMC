@@ -1,0 +1,12 @@
+C:\Users\cca\JetBrainsProjects\Compiler\Test\bin\Release\Test.exe
+C:\Users\cca\JetBrainsProjects\Compiler\Test\bin\Release\Test.pdb
+C:\Users\cca\JetBrainsProjects\Compiler\Test\obj\Release\Test.csprojAssemblyReference.cache
+C:\Users\cca\JetBrainsProjects\Compiler\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\cca\JetBrainsProjects\Compiler\Test\obj\Release\Test.exe
+C:\Users\cca\JetBrainsProjects\Compiler\Test\obj\Release\Test.pdb
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\bin\Release\Test.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\bin\Release\Test.pdb
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Release\Test.csprojAssemblyReference.cache
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Release\Test.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Release\Test.pdb

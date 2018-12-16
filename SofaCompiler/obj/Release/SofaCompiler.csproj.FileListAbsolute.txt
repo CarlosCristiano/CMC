@@ -1,0 +1,13 @@
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\bin\Release\sofaLanguage.lang
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Release\SofaCompiler.csproj.CoreCompileInputs.cache
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\bin\Release\SofaCompiler.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\bin\Release\SofaCompiler.pdb
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Release\SofaCompiler.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Release\SofaCompiler.pdb
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\bin\Release\sofaLanguage.lang
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\bin\Release\SofaCompiler.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\bin\Release\SofaCompiler.pdb
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\obj\Release\SofaCompiler.csproj.CoreCompileInputs.cache
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\obj\Release\SofaCompiler.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\obj\Release\SofaCompiler.pdb
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\obj\Release\SofaCompiler.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\bin\Debug\Test.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\bin\Debug\Test.pdb
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Debug\SofaCompiler.csprojAssemblyReference.cache
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Debug\SofaCompiler.csproj.CoreCompileInputs.cache
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Debug\Test.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\Test\obj\Debug\Test.pdb
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\bin\Debug\sofaLanguage.lang
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\bin\Debug\SofaCompiler.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\bin\Debug\SofaCompiler.pdb
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\obj\Debug\SofaCompiler.csprojAssemblyReference.cache
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\obj\Debug\SofaCompiler.csproj.CoreCompileInputs.cache
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\obj\Debug\SofaCompiler.exe
+C:\Users\cca\Documents\Uni\CMC\Compiler\SofaCompiler\obj\Debug\SofaCompiler.pdb

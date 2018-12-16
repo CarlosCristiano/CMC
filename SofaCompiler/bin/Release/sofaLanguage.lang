@@ -1,0 +1,26 @@
+sofa list<dust> newList = "Carlos","Andrea","Vito";
+tv.output "What is your Name?";
+sofa dust nextWord = tv.input;
+
+tv.output "CMC";
+tv.output 50;
+tv.output 1+10 * 9;
+
+sofa dust a1 = "TestVariableAssign";
+sofa dust hello = "Hello";
+sofa dust world = "World";
+
+sofa nop number = 1+1;
+sofa nop number2 = 50;
+
+tv.output a1;
+tv.output hello;
+tv.output world;
+tv.output number;
+tv.output number2;
+
+tv.output newList;
+
+
+tv.output nextWord;
+
